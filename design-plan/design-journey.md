@@ -11,16 +11,6 @@ Be clear and concise in your writing. Bullets points are encouraged.
 **Everything, including images, must be visible in _Markdown: Open Preview_.** If it's not visible in the Markdown preview, then we can't grade it. We also can't give you partial credit either. **Please make sure your design journey should is easy to read for the grader;** in Markdown preview the question _and_ answer should have a blank line between them.
 
 
-## Markdown Instructions
-
-**TODO: delete this section before submission.**
-
-This is a Markdown file. All written documents that you will submit this semester will be Markdown files. Markdown is a commonly used format by developers and bloggers. It's something that you should know. Learning it is a learning objective of this course.
-
-**Please use the official [Markdown Reference Documentation](https://commonmark.org/help/) if you aren't sure how to "code" Markdown.**
-
-**TODO: delete this section before submission.**
-
 
 ## Existing Design (Milestone 1)
 
@@ -31,52 +21,52 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 ### Existing Site: The Site (Milestone 1)
 > What is your existing site about? Tell us about it.
 
-TODO: tell us about your website
+My exisitng site is a site I made that documents my art portfolio pieces.
 
 > How and where did you create this site?
 
-TODO: tell us how you created it
+It is my project 3 from INFO 1300 last semester.
 
 > Is this site designed for desktop, mobile devices or both?
 
-TODO: mobile or desktop
+Desktop
 
 > Explain with this website is a **static** website.
 
-TODO:
+It is a static website because it has stable content where all users will see the same content on each individual page.
 
 
 ### Existing Site: Audience (Milestone 1)
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group.
 
-TODO: site's _cohesive_ audience
+The website I created is a platform to showcase my art portfolio pieces that I have accumulated over the years. The intended audiences are myself, my friends, family, any potential job recruiting teams, as well as anyone who just wants to look at my creative projects. Many of my friends and family love to see my artworks and often ask to see them. In addition, many times, professional oppurtunities such as internships, research lab, project teams, require a portfolio of past works. They will be able to just view this website to see my works.
 
 
 ### Existing Site: Audience Goals (Milestone 1)
 > Document your existing site's audience's goals. (These should be informed by user research. Not assumptions or stereotypes.)
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: brief title
+Goal 1: Regarding friends and family, the website is meant for them to be able to see all my artworks leading to now.
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - I will be using the font Georgia as it is one of the most stylistic and easy to read generic fonts which I think my audience will enjoy. The color theme will be monochromatic and pastel which makes it pleasant for my audience to scroll through. There will be descriptions to each of my pieces in addition to images for my audience to understand the meaning behind each work.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - Many times, people around me always ask for me to show them my artworks and I have always wanted a website to showcase my artworks. The descriptions help my audience understand the background of my work since it is hard for non-artists to actually understand the meaning of artworks without an explanation.
 
-Goal 2: TODO: brief title
+Goal 2: For potential internship recruitment teams looking for my portfolio work, this is a very effective and organized way of displaying my abilities and previous experiences.
 
-- **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
-- **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+- **Design Ideas and Choices** _How will you meet those goals in your design?
+  - Since one of my goals is to portray my professionality and skills through the website, it is important that my design choices can showcase my design skills as well as express my aesthetic taste. My emphasis on color theme cohesion and minimalistic is well displayed in the website's layout. I think that light turqouise is a very neutral color that is quite unique and pleasing to the eye.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes.
+  - Potential profesional recruiters are able to clearly see what my design values are as well as my artworks at the same time. I think that a single color scheme is better to express my professionality and aesthetic taste to the audience.
 
-Goal 3: TODO: brief title
+Goal 3: Another goal is for my audience, mainly myself, to be able to see how much I have grown through the years and the diverse types of art I create.
 
-TODO: design ideas and rationale
-
-
-TODO: add as many goals as needed
+- **Design Ideas and Choices** _How will you meet those goals in your design?
+  - I will document and showcase how much I have grown throughout the years by creating different webpages for different distinct periods of my artistic career.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes.
+  - By seperating different types of works and time periods into different pages, my audience can click through the pages and see how much I have grown throughout the years. The variety of mediums and styles I have created in is also apparent through this organizational layout.
 
 
 ### Existing Site: Design/Sketches (Milestone 1)
@@ -85,7 +75,19 @@ TODO: add as many goals as needed
 > Why can't you copy the sketches? I want to get you thinking about the strengths/weaknesses of the current design.
 > Provide an explanation _underneath_ each sketch explaining the sketch and any design patterns you are leveraging.
 
-TODO: A sketch + explanation for each webpage
+
+Page 1: Home
+![Home](styles/../../images/home.jpg)
+The home pages uses a few of my artworks as the background banner. There is a carousel which allows the users to click through a few different of my artworks. I think it is a very impactful home page and very simple but straight to the point. The navigation bar is on the top left and title is centered. Since the light turquoise color scheme is somewhat pastel, it will also be pleasing to the audience's eyes without being too distracting to the actual content of the pages. I think the turquoise could nicely complement and contrast the pink of the background image in the home page without being too distracting.
+
+Page 2: HS Portfolio
+![Homepage Brainstorm](styles/../../images/hs.jpg)
+Page 3: Clubs & Orgs
+![Homepage Brainstorm](styles/../../images/clubs.jpg)
+Page 4: College Portfolio
+![Homepage Brainstorm](styles/../../images/college.jpg)
+The design style for all three of my content related pages are uniform with a monochromatic turquoise color scheme. I think that light turqouise is a very neutral color that is quite unique and pleasing to the eye. I think that a single color scheme is better to express my professionality and aesthetic taste to the audience. Therefore, they will be able to see what type of colors and harmonies I enjoy in my artwork. The names of the pieces are highlighted for emphasis. The size and style of the text varies throughout the page which correponds to the importance of the content.
+
 
 
 
@@ -103,7 +105,7 @@ TODO: milestone 1 feedback revisions
 > Your persona must have a name and a face. The face can be a photo of a face or a drawing, etc.
 > You may type out the persona below with bullet points or include an image of the persona. Just make sure it's easy to read the persona when previewing markdown.
 
-Persona's Name: TODO: persona name
+Persona's Name: Elizabeth
 
 TODO: persona details
 
@@ -111,7 +113,7 @@ TODO: persona details
 ### Refined Design: Mobile or Desktop (Milestone 2)
 > Will your refined design be functional on mobile, tablet, or desktop devices?
 
-TODO: how will your persona access your website?
+Desktop
 
 
 ### Refined Design: Form Brainstorm (Milestone 2)
