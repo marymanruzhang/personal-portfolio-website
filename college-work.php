@@ -1,35 +1,15 @@
+<?php $page_title = 'College Portfolio'; ?>
+<?php $title = 'High School Portfolio'; ?>
+<?php $sub_title = ': Works created in College studios'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <title>College Portfolio</title>
-  <link rel="stylesheet" type="text/css" href="styles/site.css" />
-</head>
 
 <body>
+  <?php include('includes/content-header.php'); ?>
+  <?php include('includes/nav-bar.php'); ?>
 
 
-  <nav>
-    <div class = "notindex">
-    <div class="menu">
-      <ul>
-        <li><a href="index.php">Home</a></li>
-        <li><a href="high-school-portfolio.php">HS  Portfolio</a></li>
-        <li><a href="club-design.php">Clubs & Orgs</a></li>
-        <li><a href="college-work.php">College Portfolio</a></li>
-      </ul>
-    </div>
-    </div>
-  </nav>
-
-  <div class="rectangle"></div>
-
-  <div class ="spacing">
-    <h1>College Portfolio</h1>
-
-     <h2>: Works created in DEA studios</h2>
-   </div>
   <div class = "name">
     <p>DEA 1101 Final Project</p>
   </div>

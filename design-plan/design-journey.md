@@ -94,7 +94,7 @@ The design style for all three of my content related pages are uniform with a mo
 ## Milestone 1 Feedback Revisions (Milestone 2)
 > Explain what you revised in response to the Milestone 1 feedback
 
-TODO: milestone 1 feedback revisions
+There wasn't anything needed to be fixed from feedback
 
 
 
@@ -122,7 +122,9 @@ Desktop
 > For each form idea, explain how the form supports the goals of the persona.
 > **Refer to the persona by name.**
 
-TODO: list about 3 ideas for including a form on your website
+1. The form could be a subscription form for new updates on my artwork. Often times, if I am a storng candidate at the moment or strong potential candidate in the future, professionals might appreciate seeing more of my work in the future. Elizabeth could subscribe to my website and if there is new content, she will be alerted and can check up on my works in her free time if she wants to. It also alerts me of her interest in my works.
+2. The form could be an inquiry form regarding follow questions about my artworks. If Elizabeth has any questions about my artwork or if she wants clarification about my designs, filling the form on my website would be the easiest way. In addition, if she is looking for potential candidates for either job openings or collaborations, filling this form will also notify me and I could reach out to her.
+3. The form could be a feedback form where Elizabeth could submit feedback or advice regarding my works. Sometimes, it would be nice to just have feedback on my website whether it be the organization or the content. Having advice from a professional would be amazing.
 
 
 ### Refined Design: Content (Milestone 2)
@@ -130,17 +132,17 @@ TODO: list about 3 ideas for including a form on your website
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 > List the content here. Label the content as "(new)" if it's new to the existing site.
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
-
+- Many pictures of my artworks
+- Descriptions of each artwork
+- Title and subtitles
+- Navigation bar
+- Potential shapes for aesthetic purposes
 
 ### Refined Design: Content Justification (Milestone 2)
 > Explain why this content supports the goals of your persona.
 > **Refer to the persona by name.**
 
-TODO: content justification
+I think that in the broader setting of a technological focused world, interactive design and human interaction really attracts the eye of the audience. I believe that those who are interested in design are also more or less intrigued in how technology can be combined with art to create such innovative designs.
 
 
 ### Refined Design: Content Organization (Milestone 2)
@@ -150,20 +152,26 @@ TODO: content justification
 > **Refer to the persona by name.**
 
 TODO: iterations of card sorting
+![Iteration 1](styles/../../images/i1.jpg)
+The first iteration has four categories: high school works, Breakfree works, MDC works, and DEA major works, contact me,
+![Iteration 2](styles/../../images/i2.jpg)
+The second iteration has three categories: high school works, clubs and orgs works, and DEA major works contact.
+
+I used my second iteration of card sorting because I think the broader categories make it clearer for those who do not what individual organizations such as Breakfree and Medium Design Collective are to understand. I think my final organization makes the most sense because it clearly seperates my different works into different periods of my life as well as different categories.
 
 
 ### Refined Design: Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- page 1: Home
+- page 2: High School Portfolio
+- page 3: Design of Clubs and Organizations in College
+- page 4: College Portfolio
+- page 5: Contact
 
 > Explain why the names of these pages make sense for your persona.
 
-TODO: explain why the pages name make sense to the audience.
-
+The name for the pages clearly state which types of artworks I created falls in and easy to navigate. The names of the pages are also short but descriptive enough for Elizabeth to be able to tell what could be in each page without needing to press into it.
 
 ### Refined Design: Design (Milestone 2)
 > Refine the design of your site to address the goals of your persona.

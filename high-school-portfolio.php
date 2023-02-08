@@ -1,34 +1,12 @@
+<?php $page_title = 'High School Portfolio'; ?>
+<?php $title = 'High School Portfolio'; ?>
+<?php $sub_title = ': Portfolio pieces created in High School'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <title>High School Portfolio</title>
-  <link rel="stylesheet" type="text/css" href="styles/site.css" />
-</head>
-
 <body>
-
-  <nav>
-    <div class = "notindex">
-    <div class="menu">
-      <ul>
-        <li><a href="index.php">Home</a></li>
-        <li><a href="high-school-portfolio.php">HS  Portfolio</a></li>
-        <li><a href="club-design.php">Clubs & Orgs</a></li>
-        <li><a href="college-work.php">College Portfolio</a></li>
-      </ul>
-    </div>
-    </div>
-  </nav>
-
-  <div class="rectangle"></div>
-
-  <div class ="spacing">
-    <h1>High School Portfolio</h1>
-
-    <h2>: Portfolio pieces created in High School</h2>
-  </div>
+  <?php include('includes/content-header.php'); ?>
+  <?php include('includes/nav-bar.php'); ?>
 
   <div class = "name">
      <p>1. Discovery</p>

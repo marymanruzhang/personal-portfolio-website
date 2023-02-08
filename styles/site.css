@@ -57,7 +57,7 @@ h2 {
   li a {
     display: inline-block;
     color: rgba(255, 255, 255, 0.9);
-    text-align: center;
+    text-align: right;
     padding: 14px 16px;
     text-decoration: none;
     white-space: nowrap;
@@ -160,7 +160,7 @@ h2 {
 
   .slider {
     width: 120%;
-    margin-top: -10px;
+    margin-top: -30px;
     margin-left: -10px;
     object-fit: contain;
   }
