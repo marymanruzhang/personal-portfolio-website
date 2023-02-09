@@ -107,8 +107,7 @@ There wasn't anything needed to be fixed from feedback
 
 Persona's Name: Elizabeth
 
-TODO: persona details
-
+![Persona](styles/../../images/persona.jpg)
 
 ### Refined Design: Mobile or Desktop (Milestone 2)
 > Will your refined design be functional on mobile, tablet, or desktop devices?
@@ -151,13 +150,12 @@ I think that in the broader setting of a technological focused world, interactiv
 > **Please physically sort cards;** please don't try and do this digitally.
 > **Refer to the persona by name.**
 
-TODO: iterations of card sorting
 ![Iteration 1](styles/../../images/i1.jpg)
 The first iteration has four categories: high school works, Breakfree works, MDC works, and DEA major works, contact me,
 ![Iteration 2](styles/../../images/i2.jpg)
 The second iteration has three categories: high school works, clubs and orgs works, and DEA major works contact.
 
-I used my second iteration of card sorting because I think the broader categories make it clearer for those who do not what individual organizations such as Breakfree and Medium Design Collective are to understand. I think my final organization makes the most sense because it clearly seperates my different works into different periods of my life as well as different categories.
+I used my second iteration of card sorting because I think the broader categories make it clearer for those who do not what individual organizations such as Breakfree and Medium Design Collective are to understand which Elizabeth most likely doesn't. I think my final organization makes the most sense because it clearly seperates my different works into different periods of my life as well as different categories.
 
 
 ### Refined Design: Navigation (Milestone 2)
@@ -180,7 +178,12 @@ The name for the pages clearly state which types of artworks I created falls in 
 > Document your _entire_ design process. **Show your preliminary sketches and your final sketches.** **We want to see iteration!**
 > **Refer to your persona by name in each explanation.**
 
-TODO: sketches + explanation
+![Contact Page Iteration 1](styles/../../images/contact1.jpg)
+![Contact Page Iteration 2](styles/../../images/contact2.jpg)
+![Contact Page Iteration 3](styles/../../images/contact3.jpg)
+![Refined Sketches](styles/../../images/refine.jpg)
+
+I think that my original website sketches and layout make sense for ELizabeth. I added a contact page so that Elizabeth can know how to reach out to me if she stumbles upon the page or if she has any freedback/questions for me. I made several iterations of the contact page but I decided to stick with the first iteration as it is most visually straight to the point and clear for Elizabeth.
 
 
 ### Partial Plan (Milestone 2)
@@ -188,8 +191,8 @@ TODO: sketches + explanation
 > You may describe each partial or sketch it. It's up to you!
 > Explain how you will customize at least 1 partial.
 
-TODO: partial plan
-
+![Partial](styles/../../images/partial.jpg)
+There will be two partials: one for header content and one for navigation bar. I seperated these two because the header content does not apply to every single of my pages whereas navigation bar does so it would not make sense to put those two together as a partial. I have customized it by adding variables that allow the changing of the title on corresponding pages.
 
 ## Milestone 2 Feedback Revisions (Milestone 3)
 > Explain what you revised in response to the Milestone 2 feedback

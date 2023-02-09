@@ -16,16 +16,8 @@
   <div class = "title"><h1>Mary's</h1></div>
   <div class = "title2"><h1>Portfolio</h1></div>
 
-  <nav>
-        <div class="menu">
-          <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="high-school-portfolio.php">HS  Portfolio</a></li>
-            <li><a href="club-design.php">Clubs & Orgs</a></li>
-            <li><a href="college-work.php">College Portfolio</a></li>
-          </ul>
-        </div>
-  </nav>
+  <?php include('includes/nav-bar.php'); ?>
+
  <!-- Citation for both arrow images-->
   <cite><a href="  https://www.vhv.rs/viewpic/hJwiTJw_transparent-rustic-arrow-png-icon-right-arrow-svg/"></a></cite>
   <img id= "next-button" src="images/arrow-right.png" alt=" ">
