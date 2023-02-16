@@ -31,6 +31,18 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
+  .form {
+    color: black;
+    background-color: #98afaf;
+    background-color: transparent;
+    width: fit-content;
+    line-height: 20px;
+    font-size: small;
+    margin-top: 20px;
+    margin-left: 175px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
   .menu {
     width: 15em;
     padding: 8px 12px;

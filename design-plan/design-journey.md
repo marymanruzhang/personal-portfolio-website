@@ -181,6 +181,8 @@ The name for the pages clearly state which types of artworks I created falls in 
 ![Contact Page Iteration 1](styles/../../images/contact1.jpg)
 ![Contact Page Iteration 2](styles/../../images/contact2.jpg)
 ![Contact Page Iteration 3](styles/../../images/contact3.jpg)
+![404](styles/../../images/404.jpg)
+![Confirmation](styles/../../images/confirm.jpg)
 ![Refined Sketches](styles/../../images/refine.jpg)
 
 I think that my original website sketches and layout make sense for ELizabeth. I added a contact page so that Elizabeth can know how to reach out to me if she stumbles upon the page or if she has any freedback/questions for me. I made several iterations of the contact page but I decided to stick with the first iteration as it is most visually straight to the point and clear for Elizabeth.
@@ -197,7 +199,7 @@ There will be two partials: one for header content and one for navigation bar. I
 ## Milestone 2 Feedback Revisions (Milestone 3)
 > Explain what you revised in response to the Milestone 2 feedback
 
-TODO: milestone 2 feedback revisions
+I added the sketch pages for confirmation and 404 that I forgot about last time.
 
 
 ## Form Design and Planning (Milestone 3)
@@ -208,14 +210,21 @@ TODO: milestone 2 feedback revisions
 > Provide a brief explanation _underneath_ each sketch.
 > **Refer to the persona by name.**
 
-TODO: sketches + explanation
+![Form 1](styles/../../images/form1.jpg)
+The first form is a simple subscription form which I went with in the end. Elizabeth will be able to subscribe to more content in the future if she is interested in my skills and want to see more updates in the future.
+
+![Form 2](styles/../../images/form2.jpg)
+The second form is also a simple subscription form but I was debating whether or not to make it a Yes or No option to the subscription form but then I realized it made no sense to put a No option if she is not interested. If Elizabeth is not interested she would not fill out the form.
+
+![Form 3](styles/../../images/form3.jpg)
+I thought about having a subscription and feedback form in one where Elizabeth can also give me feedback on my work. In the end, I felt like that was a bit unneccesary and that it is better to just go with a subscription form or else she might feel a bit overwhelmed.
 
 
 ### Form Planning (Milestone 3)
 > Will your form use a GET or POST request.
 > Justify your decision as to why the request type is appropriate for the form.
 
-TODO: GET/POST + justification
+POST data doesn't appear in the URL whereas GET requests incudes all required data. As a result, GET is also less secure because data sent is part of the URL.
 
 
 ## Milestone 3 Feedback Revisions (Final Submission)
