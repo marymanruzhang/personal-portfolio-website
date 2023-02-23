@@ -1,6 +1,15 @@
 <?php $page_title = 'High School Portfolio'; ?>
 <?php $title = 'High School Portfolio'; ?>
 <?php $sub_title = ': Portfolio pieces created in High School'; ?>
+
+<?php
+$nav_home_class = '';
+$nav_college_class = '';
+$nav_contact_class = '';
+$nav_highschool_class = 'active_page';
+$nav_club_class = '';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,7 +21,7 @@
      <p>1. Discovery</p>
   </div>
   <figure>
-    <img src="images/discovery.jpg"
+    <img src="/public/images/discovery.jpg"
          alt="Discovery" >
     <figcaption>Discovery</figcaption>
   </figure>
@@ -31,7 +40,7 @@
   </div>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/figure1.JPG"
+    <img src="/public/images/figure1.JPG"
          alt="Au Naturel" >
     <figcaption>Au Naturel</figcaption>
   </figure>
@@ -50,7 +59,7 @@
   </div>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/hand1.jpg"
+    <img src="/public/images/hand1.jpg"
          alt="Paralysis" >
     <figcaption>Paralysis</figcaption>
   </figure>
@@ -69,7 +78,7 @@
   </div>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/hanged1.jpg"
+    <img src="/public/images/hanged1.jpg"
          alt="Hanged">
     <figcaption>Breakfree Dancefest and Clubfest Poster</figcaption>
   </figure>
@@ -88,7 +97,7 @@
   </div>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/evolution1.JPG"
+    <img src="/public/images/evolution1.JPG"
          alt="Evolution" >
     <figcaption>Evolution</figcaption>
   </figure>
@@ -107,13 +116,13 @@
   </div>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/hh2.jpg"
+    <img src="/public/images/hh2.jpg"
          alt="Hearting and Healing" >
     <figcaption>Hearting and Healing</figcaption>
   </figure>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/hh3.jpg"
+    <img src="/public/images/hh3.jpg"
          alt="Hearting and Healing" >
     <figcaption>Hearting and Healing</figcaption>
   </figure>

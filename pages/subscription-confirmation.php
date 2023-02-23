@@ -2,9 +2,10 @@
 $title = 'Subscription Confirmation Form';
 
 $nav_home_class = '';
-$nav_citations_class = '';
-$nav_cooking_class = '';
-$nav_flowershop_class = 'active_page';
+$nav_college_class = '';
+$nav_contact_class = 'active_page';
+$nav_highschool_class = '';
+$nav_club_class = '';
 
 $name = $_POST["name"]; // untrusted
 $phone = $_POST["phone"]; // untrusted

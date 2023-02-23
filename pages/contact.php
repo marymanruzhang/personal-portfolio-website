@@ -1,6 +1,15 @@
 <?php $page_title = 'Contact me'; ?>
 <?php $title = 'Contact'; ?>
 <?php $sub_title = ': For more inquiry, please fill out the form'; ?>
+
+<?php
+$nav_home_class = '';
+$nav_college_class = '';
+$nav_contact_class = 'active_page';
+$nav_highschool_class = '';
+$nav_club_class = '';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 

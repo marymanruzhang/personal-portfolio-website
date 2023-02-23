@@ -1,9 +1,17 @@
 <?php $page_title = 'College Portfolio'; ?>
 <?php $title = 'High School Portfolio'; ?>
 <?php $sub_title = ': Works created in College studios'; ?>
+
+<?php
+$nav_home_class = '';
+$nav_college_class = 'active_page';
+$nav_contact_class = '';
+$nav_highschool_class = '';
+$nav_club_class = '';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
-
 
 <body>
   <?php include('includes/content-header.php'); ?>
@@ -15,13 +23,13 @@
   </div>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/college1.png"
+    <img src="/public/images/college1.png"
          alt="Childhood Journey" >
     <figcaption>Childhood Journey</figcaption>
   </figure>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/college1.png"
+    <img src="/public/images/college1.png"
          alt="Childhood Journey">
     <figcaption>Childhood Journey</figcaption>
   </figure>

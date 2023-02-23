@@ -230,7 +230,7 @@ POST data doesn't appear in the URL whereas GET requests incudes all required da
 ## Milestone 3 Feedback Revisions (Final Submission)
 > Explain what you revised in response to the Milestone 3 feedback
 
-TODO: milestone 3 feedback revisions
+Play with the form aligments
 
 
 ## Complete & Polished Website (Final Submission)
@@ -242,13 +242,18 @@ TODO: milestone 3 feedback revisions
 | Route       | PHP File                            |
 | ----------- | ----------------------------------- |
 | /           | pages/home.php (or pages/index.php) |
-| TODO: route | TODO: php file                      |
-| TODO: route | TODO: php file                      |
+| /high-school| pages/high-school-portfolio.php     |
+  -portfolio  |                                     |
+| /club-design| pages/club-design.php               |
+| /contact    | pages/contact.php                   |
+| /college-   | pages/college-work.php              |
+  work        |                                     |
+| /contact/   | pages/subscription-confirmation.php |
+  confirmation|
 
 > Explain why these routes (URLs) are usable for your persona.
 
-TODO: justification of routing design
-
+They are usable for Elizabeth because they are clear and straight to the point. She can easily know what the page is about just looking at the URL. They also correpond nicely with the page title as well.
 
 ### Refined Missing Resource Page (Milestone 3)
 > Refine the design of your site's missing resource 404 page for your persona.
@@ -263,7 +268,7 @@ TODO: sketches + explanation
 > Tell us what issues you discovered during your accessibility audit.
 > What do you do to improve the accessibility of your site?
 
-TODO: audit fixes
+There are some suspicious alternative text for images and an empty text for the link of the citation. I changed the alt text of the ones that are reptitive or missing and then changed the way I cited to fix the empty text error.
 
 
 ### Final Design + Audience Goals (Final Submission)
@@ -271,13 +276,13 @@ TODO: audit fixes
 > Be specific. Tell us how you tailored your design, content, etc. to make your website usable for your persona.
 > **Refer to the persona by name.**
 
-TODO: rationale
+Since one of my goals is to portray my professionality and skills through the website, it is important that my design choices can showcase my design skills as well as express my aesthetic taste to Elizabeth. My emphasis on color theme cohesion and minimalistic is well displayed in the website's layout. I think that light turqouise is a very neutral color that is quite unique and pleasing to the eye. I think that Elizabeth can easily sort thorugh my works through the name of page titles in nav bar as well as the url names.
 
 
 ### Self-Reflection (Final Submission)
 > Take some time here to reflect on how much you've learned since you started this class. It's often easy to ignore our own progress. Take a moment and think about your accomplishments in this class. Hopefully you'll recognize that you've accomplished a lot and that you should be very proud of those accomplishments!
 
-TODO: self-reflection
+I think I have learned alot about php website design as well as accesibility and dynamic websites. I think that the material really correponded well with the content learned in class and practiced in lab. I feel pretty confident about what I have learned and I think everything has gone pretty smoothly.
 
 
 ## Grading (Final Submission)
@@ -285,29 +290,30 @@ TODO: self-reflection
 ### Grading: Mobile or Desktop (Final Submission)
 > When we grade your final site, should we grade this with a mobile screen size or a desktop screen size?
 
-TODO: screen size
+Desktop
 
 
 ### Grading: Partials (Final Submission)
 > Clearly list each partial file and where you used it.
 
-- TODO: partial 1
-- TODO: partial 2
+- content-header.php (every page except for the home page index.php)
+- nav-bar.php (every page)
 
 > Which partials have customization? Explain how the customization looks in the browser.
 
-- Example: header.php shows a border around the current page (TODO: delete this line)
-- TODO: partial customization
+Both partials have customization as for the content-header.php the title and subtitle of each page is different and for nav-bar.php the active page is different.
+- content-header.php is the design of header at the top page of every page except for the home page
+- nav-bar.php is the design of the navigation bar that is present at the top of every page
 
 
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+n/a
 
 
 ### Reference Resources
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. W3Schools, StackOverflow, Mozilla, etc.)
 
-TODO: list reference resources
+canvas material

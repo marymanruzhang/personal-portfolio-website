@@ -11,7 +11,7 @@
         "-dxdebug.client_port=9003",
         "-S",
         "localhost:8000",
-        // "router.php"
+        "router.php"
       ],
       "cwd": "${workspaceRoot}",
       "port": 9003,

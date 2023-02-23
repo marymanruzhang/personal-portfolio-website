@@ -1,6 +1,15 @@
 <?php $page_title = 'Clubs and Organizations'; ?>
 <?php $title = 'Design for Clubs and Organizations in College'; ?>
 <?php $sub_title = ': Pieces that I designed for on-campus organizations I am a part of'; ?>
+
+<?php
+$nav_home_class = '';
+$nav_college_class = '';
+$nav_contact_class = '';
+$nav_highschool_class = '';
+$nav_club_class = 'active_page';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -15,7 +24,7 @@
   </div>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/MDC_donut.png"
+    <img src="/public/images/MDC_donut.png"
          alt="Donut Model" >
     <figcaption>Scrumptious Donut Model</figcaption>
   </figure>
@@ -28,7 +37,7 @@
   </div>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/MDC_console.png"
+    <img src="/public/images/MDC_console.png"
          alt="Console Model">
     <figcaption>Futuristic Console Model</figcaption>
   </figure>
@@ -41,7 +50,7 @@
   </div>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/tvmodel.png"
+    <img src="/public/images/tvmodel.png"
          alt="Raw Exhibition Poster" >
     <figcaption>Raw Exhibition Poster SP2022</figcaption>
   </figure>
@@ -54,7 +63,7 @@
   </div>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/ig_post.png"
+    <img src="/public/images/ig_post.png"
          alt="Breakfree Audition Poster FA2022">
     <figcaption>Breakfree Audition Poster FA2022</figcaption>
   </figure>
@@ -67,7 +76,7 @@
   </div>
   <figure>
     <!-- Source: (original artwork) Mary Zhang -->
-    <img src="images/ig_post_dc.png"
+    <img src="/public/images/ig_post_dc.png"
          alt="Breakfree Clubfest and Dancefest Poster" >
     <figcaption>Breakfree Dancefest and Clubfest Poster</figcaption>
   </figure>
