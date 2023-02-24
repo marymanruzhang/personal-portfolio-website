@@ -77,15 +77,15 @@ Goal 3: Another goal is for my audience, mainly myself, to be able to see how mu
 
 
 Page 1: Home
-![Home](styles/../../images/home.jpg)
+![Home](/public/images/home.jpg)
 The home pages uses a few of my artworks as the background banner. There is a carousel which allows the users to click through a few different of my artworks. I think it is a very impactful home page and very simple but straight to the point. The navigation bar is on the top left and title is centered. Since the light turquoise color scheme is somewhat pastel, it will also be pleasing to the audience's eyes without being too distracting to the actual content of the pages. I think the turquoise could nicely complement and contrast the pink of the background image in the home page without being too distracting.
 
 Page 2: HS Portfolio
-![Homepage Brainstorm](styles/../../images/hs.jpg)
+![Homepage Brainstorm](/public/images/hs.jpg)
 Page 3: Clubs & Orgs
-![Homepage Brainstorm](styles/../../images/clubs.jpg)
+![Homepage Brainstorm](/public/images/clubs.jpg)
 Page 4: College Portfolio
-![Homepage Brainstorm](styles/../../images/college.jpg)
+![Homepage Brainstorm](/public/images/college.jpg)
 The design style for all three of my content related pages are uniform with a monochromatic turquoise color scheme. I think that light turqouise is a very neutral color that is quite unique and pleasing to the eye. I think that a single color scheme is better to express my professionality and aesthetic taste to the audience. Therefore, they will be able to see what type of colors and harmonies I enjoy in my artwork. The names of the pieces are highlighted for emphasis. The size and style of the text varies throughout the page which correponds to the importance of the content.
 
 
@@ -107,7 +107,7 @@ There wasn't anything needed to be fixed from feedback
 
 Persona's Name: Elizabeth
 
-![Persona](styles/../../images/persona.jpg)
+![Persona](/public/images/persona.jpg)
 
 ### Refined Design: Mobile or Desktop (Milestone 2)
 > Will your refined design be functional on mobile, tablet, or desktop devices?
@@ -150,9 +150,9 @@ I think that in the broader setting of a technological focused world, interactiv
 > **Please physically sort cards;** please don't try and do this digitally.
 > **Refer to the persona by name.**
 
-![Iteration 1](styles/../../images/i1.jpg)
+![Iteration 1](/public/images/i1.jpg)
 The first iteration has four categories: high school works, Breakfree works, MDC works, and DEA major works, contact me,
-![Iteration 2](styles/../../images/i2.jpg)
+![Iteration 2](/public/images/i2.jpg)
 The second iteration has three categories: high school works, clubs and orgs works, and DEA major works contact.
 
 I used my second iteration of card sorting because I think the broader categories make it clearer for those who do not what individual organizations such as Breakfree and Medium Design Collective are to understand which Elizabeth most likely doesn't. I think my final organization makes the most sense because it clearly seperates my different works into different periods of my life as well as different categories.
@@ -178,12 +178,12 @@ The name for the pages clearly state which types of artworks I created falls in 
 > Document your _entire_ design process. **Show your preliminary sketches and your final sketches.** **We want to see iteration!**
 > **Refer to your persona by name in each explanation.**
 
-![Contact Page Iteration 1](styles/../../images/contact1.jpg)
-![Contact Page Iteration 2](styles/../../images/contact2.jpg)
-![Contact Page Iteration 3](styles/../../images/contact3.jpg)
-![404](styles/../../images/404.jpg)
-![Confirmation](styles/../../images/confirm.jpg)
-![Refined Sketches](styles/../../images/refine.jpg)
+![Contact Page Iteration 1](/public/images/contact1.jpg)
+![Contact Page Iteration 2](/public/images/contact2.jpg)
+![Contact Page Iteration 3](/public/images/contact3.jpg)
+![404](/public/images/404.jpg)
+![Confirmation](/public/images/confirm.jpg)
+![Refined Sketches](/public/images/refine.jpg)
 
 I think that my original website sketches and layout make sense for ELizabeth. I added a contact page so that Elizabeth can know how to reach out to me if she stumbles upon the page or if she has any freedback/questions for me. I made several iterations of the contact page but I decided to stick with the first iteration as it is most visually straight to the point and clear for Elizabeth.
 
@@ -193,7 +193,7 @@ I think that my original website sketches and layout make sense for ELizabeth. I
 > You may describe each partial or sketch it. It's up to you!
 > Explain how you will customize at least 1 partial.
 
-![Partial](styles/../../images/partial.jpg)
+![Partial](/public/images/partial.jpg)
 There will be two partials: one for header content and one for navigation bar. I seperated these two because the header content does not apply to every single of my pages whereas navigation bar does so it would not make sense to put those two together as a partial. I have customized it by adding variables that allow the changing of the title on corresponding pages.
 
 ## Milestone 2 Feedback Revisions (Milestone 3)
@@ -210,13 +210,13 @@ I added the sketch pages for confirmation and 404 that I forgot about last time.
 > Provide a brief explanation _underneath_ each sketch.
 > **Refer to the persona by name.**
 
-![Form 1](styles/../../images/form1.jpg)
+![Form 1](/public/styles/../../images/form1.jpg)
 The first form is a simple subscription form which I went with in the end. Elizabeth will be able to subscribe to more content in the future if she is interested in my skills and want to see more updates in the future.
 
-![Form 2](styles/../../images/form2.jpg)
+![Form 2](/public/images/form2.jpg)
 The second form is also a simple subscription form but I was debating whether or not to make it a Yes or No option to the subscription form but then I realized it made no sense to put a No option if she is not interested. If Elizabeth is not interested she would not fill out the form.
 
-![Form 3](styles/../../images/form3.jpg)
+![Form 3](/public/images/form3.jpg)
 I thought about having a subscription and feedback form in one where Elizabeth can also give me feedback on my work. In the end, I felt like that was a bit unneccesary and that it is better to just go with a subscription form or else she might feel a bit overwhelmed.
 
 
@@ -231,6 +231,7 @@ POST data doesn't appear in the URL whereas GET requests incudes all required da
 > Explain what you revised in response to the Milestone 3 feedback
 
 Play with the form aligments
+I changed the alignment of the submit button so it would help guide the eye of the user more and also allow for them to think before pressing submit.
 
 
 ## Complete & Polished Website (Final Submission)
@@ -261,7 +262,12 @@ They are usable for Elizabeth because they are clear and straight to the point. 
 > Provide a brief explanation _underneath_ each sketch.
 > **Refer to the persona by name.**
 
-TODO: sketches + explanation
+![Ver 1](/public/images/IMG_0465.jpg)
+This is a very basic page that follows the layout of the other pages. I think it is a little bit empty though. It is unclear for Elizabeth what the next steps are and what the error is.
+![Ver 2](/public/images/IMG_0466.jpg)
+This also follows the layout of the other page but I think compared to the first version, this page is less empty since there is paragraph text. Elizabeth is able to realize that the 404 page not found error means that the page doesn't exist and to try again.
+![Ver 3](/public/images/IMG_0467.jpg)
+This is a very basic layout that doesn't follow the other pages' layout. I think it is lacking in detail so it was the first iteraiton to go.
 
 
 ### Accessibility Audit (Final Submission)

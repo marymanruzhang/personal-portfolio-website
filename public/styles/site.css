@@ -226,3 +226,12 @@ figcaption {
   font-size: x-small;
   color:#495b5b;
 }
+
+.align-right{
+  text-align: right;
+  margin-bottom: 50px;
+}
+
+.form{
+  padding: 20px;
+}
